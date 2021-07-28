@@ -1,0 +1,1 @@
+export {Datatable} from './src/Datatable.svelte';
