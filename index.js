@@ -1,1 +1,1 @@
-export {Datatable} from './src/Datatable.svelte';
+export {default as Datatable} from './src/Datatable.svelte';
